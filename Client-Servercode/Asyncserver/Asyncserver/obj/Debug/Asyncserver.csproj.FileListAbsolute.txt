@@ -1,0 +1,13 @@
+D:\Courses\Winter2018\ADC\Code\HW1\Asyncserver\Asyncserver\bin\Debug\Asyncserver.exe.config
+D:\Courses\Winter2018\ADC\Code\HW1\Asyncserver\Asyncserver\bin\Debug\Asyncserver.exe
+D:\Courses\Winter2018\ADC\Code\HW1\Asyncserver\Asyncserver\bin\Debug\Asyncserver.pdb
+D:\Courses\Winter2018\ADC\Code\HW1\Asyncserver\Asyncserver\obj\Debug\Asyncserver.csproj.CoreCompileInputs.cache
+D:\Courses\Winter2018\ADC\Code\HW1\Asyncserver\Asyncserver\obj\Debug\Asyncserver.exe
+D:\Courses\Winter2018\ADC\Code\HW1\Asyncserver\Asyncserver\obj\Debug\Asyncserver.pdb
+D:\Courses\Winter2018\ADC\Code\HW1\Upload\Asyncserver\Asyncserver\bin\Debug\Asyncserver.exe.config
+D:\Courses\Winter2018\ADC\Code\HW1\Upload\Asyncserver\Asyncserver\bin\Debug\Asyncserver.exe
+D:\Courses\Winter2018\ADC\Code\HW1\Upload\Asyncserver\Asyncserver\bin\Debug\Asyncserver.pdb
+D:\Courses\Winter2018\ADC\Code\HW1\Upload\Asyncserver\Asyncserver\obj\Debug\Asyncserver.csprojResolveAssemblyReference.cache
+D:\Courses\Winter2018\ADC\Code\HW1\Upload\Asyncserver\Asyncserver\obj\Debug\Asyncserver.csproj.CoreCompileInputs.cache
+D:\Courses\Winter2018\ADC\Code\HW1\Upload\Asyncserver\Asyncserver\obj\Debug\Asyncserver.exe
+D:\Courses\Winter2018\ADC\Code\HW1\Upload\Asyncserver\Asyncserver\obj\Debug\Asyncserver.pdb
